@@ -1,6 +1,6 @@
  <div>
 使用技術<br>
-   ・Processing<br>
-   ・Arduino
+　・Processing<br>
+　・Arduino
 </div>
    
